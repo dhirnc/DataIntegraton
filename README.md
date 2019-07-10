@@ -1,3 +1,13 @@
+Environment: Python 3.6.5 and Jupyter notebook 
+
+Libraries used:
+
+pandas - for dataframe manipulation
+shapefile - to read shapefiles
+geopandas - to read and manipulate shapefile for co-ordinate reference system
+matplotlib (for plotting)
+math - for mathematical functions
+Sklearn libraries - for data transformation and fitting linear model
 This analysis deals with Data Integration and Reshaping problems for Property data.
 
 Task 1:The goal of the analysis is to find several relavant commute details about properties using GTFS data provided. 
